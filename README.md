@@ -1,5 +1,5 @@
 # Olympic medals
-#Accuracy Metric :
+*Accuracy Metric :
 
 We use mean squared error (MSE) as the accuracy metric for evaluating the regression model's performance. MSE measures the average squared difference between the actual and predicted values.
 
